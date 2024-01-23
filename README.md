@@ -17,7 +17,7 @@
 - French - A2 🇫🇷
 
 ## Connect with Me 📬
-- **Email:** [Your Email Address]
+- **Email:** georgelivasileiadis@gmail.com
 - **HuggingFace** https://huggingface.co/GrgLiAi
 
 ## 📊 My GitHub Stats 📈
