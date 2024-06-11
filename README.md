@@ -6,6 +6,7 @@
 ### Knowledge 💡
 - Python
 - AI development
+- Discord bots
 - Telegram bots
 - Web development
 
